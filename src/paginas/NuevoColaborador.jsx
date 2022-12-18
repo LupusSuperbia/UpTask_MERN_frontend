@@ -28,7 +28,7 @@ const NuevoColaborador = () => {
       </h1>
 
       <div className="mt-10 flex justify-center">
-        <Formulario Colaborador />
+        <FormularioColaborador />
       </div>
 
         {cargando ? (
